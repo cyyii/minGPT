@@ -1,4 +1,6 @@
-
+2024年3月9日
+项目：minGPT
+基于GPT-2模型
 # minGPT
 
 ![mingpt](mingpt.jpg)
